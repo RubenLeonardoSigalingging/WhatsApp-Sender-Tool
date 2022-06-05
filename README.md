@@ -11,3 +11,6 @@
 - https://translate.google.com/ 
 - https://pypi.org/project/pywhatkit/ 
 - https://github.com/RubenLeonardoSigalingging
+
+# Words-Of-Motivation
+- Don't Stop Learning.
