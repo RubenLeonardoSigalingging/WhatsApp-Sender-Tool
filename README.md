@@ -13,4 +13,4 @@
 - https://github.com/RubenLeonardoSigalingging
 
 # Words-Of-Motivation
-- Don't Stop Learning.
+Don't Stop Learning, Because Life Never Stop Teaching.
